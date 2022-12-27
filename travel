@@ -1,0 +1,95 @@
+#EXTM3U
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/Bgqy4fL.jpg" group-title="Travel",TVS Travel Network (720p)
+https://rpn1.bozztv.com/36bay2/gusa-tvstravel/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Tastemade Travel
+https://tastemadetravel-vizio.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg" group-title="Undefined",Travel & Adventure HD
+http://45.142.213.81:8001/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Travel Channel
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/travel.channel.ru.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Travel XP
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/8KQirah.png" group-title="Travel",Travel XP (720p)
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Travel+Adventure
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/traveladventure.ru.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Travelxp
+https://travelxp-travelxp-1-se.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Travelxp
+https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",TRAVEL CHANNEL
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHeko0axIf2MTn_2XpYmIiE/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Travel Channel
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/travel.channel.uk.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg" group-title="Undefined",TRAVEL CHANNEL
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146004?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Travel Channel US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/travel.us.east.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Russian Travel Guide HD
+http://myott.top/stream/DT6QU63K5VX/164.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",TRAVEL CHANNEL IL
+http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/12279/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Travel & Adventure HD
+http://live-1.otcnet.ru/tadtmf/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Travel Channel
+http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/130/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Travel Channel
+http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/130/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Travel Channel EN
+http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/1070/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Travel Channel EN
+http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/1070/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Travel Channel HD
+http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/233/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Travel Channel HD
+http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/233/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Travel Channel HD RO
+http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7007/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Travel Channel HD orig
+http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/9025/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Travel Channel HD orig
+http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/9025/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Travel Channel IL
+http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2361/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Travel Channel orig
+http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/9314/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Travel Channel orig
+http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/9314/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Travel Guide TV
+http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/16026/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Travel Guide TV
+http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/16026/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Travel HD
+http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/1043/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Travel HD
+http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/1043/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Travel Mix RO
+http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6954/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Travel TV
+http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/1044/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Travel TV
+http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/1044/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Travel channel HD
+http://myott.top/stream/DT6QU63K5VX/231.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Travel+Adventure HD
+http://myott.top/stream/DT6QU63K5VX/206.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Travel+Adventure HD orig
+http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/9019/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Travel+Adventure HD orig
+http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/9019/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Travel+Adventure orig
+http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/9301/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Travel+Adventure orig
+http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/9301/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Z!Travel HD
+http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/17063/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Z!Travel HD
+http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/17063/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",box travel hd
+http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19418/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",box travel hd
+http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19418/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",travel+adventure
+http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/850/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",travel+adventure
+http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/850/index.m3u8?checkedby:iptvcat.com
